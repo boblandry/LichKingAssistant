@@ -5,7 +5,7 @@
 	<artifactId>LichKingAssistant</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wc_shop Maven Webapp</name>
+	<name>LichKingAssistant</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 
